@@ -5,5 +5,5 @@ int main()
     int a = 10;
     int b = 5;
 
-    cout<<"diff is "<<(a-b);
+    cout<<"diff of a and b is "<<(a-b);
 }
